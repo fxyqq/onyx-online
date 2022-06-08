@@ -1,0 +1,267 @@
+{
+  "WorldTime": {
+    "State": true,
+    "name": "WorldTime",
+    "Time": "19035.0"
+  },
+  "Chams": {
+    "State": false,
+    "name": "Chams"
+  },
+  "InventoryMove": {
+    "State": false,
+    "name": "InventoryMove"
+  },
+  "KillAura": {
+    "State": false,
+    "name": "KillAura",
+    "Priority Mode": "Health",
+    "Auto Block": "Packet",
+    "Min_Aps": "9.0",
+    "Max_Aps": "12.0",
+    "Range": "4.0",
+    "Keep Sprint": "true",
+    "Players": "true",
+    "Mobs": "false",
+    "Animals": "false",
+    "Invisibles": "false",
+    "Teams": "true",
+    "AutoBlock": "false"
+  },
+  "Brightness": {
+    "State": false,
+    "name": "Brightness"
+  },
+  "Flight": {
+    "State": false,
+    "name": "Flight",
+    "Mode": "Vanilla",
+    "Speed": "0.1",
+    "Fake Damage": "false"
+  },
+  "NoRender": {
+    "State": true,
+    "name": "NoRender",
+    "Hide ArmorStand": "true",
+    "Hide Item Frame": "true",
+    "Hide End Portal": "true",
+    "Hide Lava Particles": "true",
+    "Hide Smoke Particles": "true",
+    "Hide Portal Particles": "true",
+    "Hide Explosion Particles": "true",
+    "Hide Boat": "true",
+    "Hide Arrows / Eggs / Snoball": "true"
+  },
+  "Stealer": {
+    "State": false,
+    "name": "Stealer",
+    "Delay": "50.0",
+    "FreeCam": "false",
+    "Silent": "false",
+    "Ignore bad items": "true"
+  },
+  "SwingModifier": {
+    "State": true,
+    "name": "SwingModifier",
+    "Animations": "Exhibition",
+    "RESET": "false",
+    "Swing Speed": "1.0",
+    "Item Translate Size": "0.4",
+    "Item X": "52.0",
+    "Item Y": "56.0",
+    "X Item Rotate": "0.0",
+    "Y Item Rotate": "1.0",
+    "Z Item Rotate": "0.0",
+    "Fake": "false"
+  },
+  "Scaffold": {
+    "State": false,
+    "name": "Scaffold",
+    "Sprint Mode": "Vanilla",
+    "Rotation Mode": "Hypixel2",
+    "Place Delay": "0.2",
+    "Keep y": "false",
+    "Swing": "false",
+    "Tower": "false",
+    "Tower Move": "false",
+    "Slow Down": "true"
+  },
+  "Step": {
+    "State": false,
+    "name": "Step",
+    "Mode": "Vanilla"
+  },
+  "Criticals": {
+    "State": false,
+    "name": "Criticals",
+    "Critical Mode": "Packet",
+    "Delay": "100.0"
+  },
+  "ClickGUI": {
+    "State": false,
+    "name": "ClickGUI"
+  },
+  "NoFov": {
+    "State": false,
+    "name": "NoFov"
+  },
+  "TargetHUD": {
+    "State": true,
+    "name": "TargetHUD",
+    "Mode": "Astolfo"
+  },
+  "Scoreboard": {
+    "State": true,
+    "name": "Scoreboard",
+    "Custom Font": "false"
+  },
+  "HUD": {
+    "State": true,
+    "name": "HUD",
+    "Color": "Fade",
+    "Watermark Style": "Onyx",
+    "Line": "Right",
+    "Suffix": "Normal",
+    "Show Notification on Toggle": "false",
+    "Hide Render Modules": "false",
+    "Blood Overlay": "true",
+    "RED": "90.0",
+    "BLUE": "90.0",
+    "GREEN": "90.0",
+    "Background Opacity": "190.0",
+    "Rainbow HUE": "90.0",
+    "Font Mode": "SFUI",
+    "Show Watermark": "true",
+    "Show Suffix": "true",
+    "Module Spacing": "0.2",
+    "X": "8.0",
+    "Y": "0.7"
+  },
+  "AntiBot": {
+    "State": true,
+    "name": "AntiBot"
+  },
+  "AutoPotion": {
+    "State": false,
+    "name": "AutoPotion",
+    "Rotation Mode": "Down",
+    "Health": "12.0",
+    "Delay": "120.0",
+    "JumpFrog": "false",
+    "Only Inv": "false",
+    "Jump": "false",
+    "Stop Motion": "false"
+  },
+  "NoSlow": {
+    "State": false,
+    "name": "NoSlow",
+    "Mode": "NCP"
+  },
+  "Speed": {
+    "State": false,
+    "name": "Speed",
+    "Mode": "NCP",
+    "Timer ON Space": "true",
+    "Timer": "1.2",
+    "Jump Height": "32.0",
+    "Custom Speed": "1.25",
+    "Custom Strafe": "true",
+    "On Ground Strafe": "false"
+  },
+  "ESP": {
+    "State": true,
+    "name": "ESP",
+    "Box": "false",
+    "Weapon": "false",
+    "Name": "true"
+  },
+  "Session Statistics": {
+    "State": true,
+    "name": "Session Statistics"
+  },
+  "Disabler": {
+    "State": true,
+    "name": "Disabler",
+    "Mode": "Watchdog New",
+    "Sync inventory": "false",
+    "Funny thing": "false",
+    "Funny Delay": "3776.1"
+  },
+  "NameTags": {
+    "State": false,
+    "name": "NameTags"
+  },
+  "NoFall": {
+    "State": false,
+    "name": "NoFall",
+    "Nofall Mode": "Edit"
+  },
+  "Cape": {
+    "State": false,
+    "name": "Cape",
+    "Cape": "Onyx"
+  },
+  "ViewClip": {
+    "State": true,
+    "name": "ViewClip"
+  },
+  "Velocity": {
+    "State": true,
+    "name": "Velocity",
+    "Velocity Mode": "Packet",
+    "Horizontal": "0.0",
+    "Vertical": "0.0"
+  },
+  "KillEffect": {
+    "State": true,
+    "name": "KillEffect",
+    "Effect": "Lightning"
+  },
+  "NoRotate": {
+    "State": false,
+    "name": "NoRotate"
+  },
+  "Auto Hypixel": {
+    "State": false,
+    "name": "Auto Hypixel",
+    "Delay": "2000.0",
+    "Auto GG": "true",
+    "Auto ReJoin": "true"
+  },
+  "FreecamTP": {
+    "State": false,
+    "name": "FreecamTP"
+  },
+  "InvManager": {
+    "State": false,
+    "name": "InvManager",
+    "Clean Delay": "60.0",
+    "Sword Slot": "1.0",
+    "Keep Axe": "true",
+    "Keep PickAxe": "true",
+    "Keep Shovel": "false",
+    "Clean Bad": "true",
+    "Inventory Only": "true"
+  },
+  "ResetVL": {
+    "State": false,
+    "name": "ResetVL"
+  },
+  "ChestESP": {
+    "State": true,
+    "name": "ChestESP"
+  },
+  "Sprint": {
+    "State": true,
+    "name": "Sprint"
+  },
+  "FastMine": {
+    "State": false,
+    "name": "FastMine",
+    "Speed": "1.0"
+  },
+  "NoHurtCam": {
+    "State": true,
+    "name": "NoHurtCam"
+  }
+}
